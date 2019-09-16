@@ -14,3 +14,5 @@ git clone https://github.com/chaua/teste-git.git
 - **add**: adiciona os arquivos para o stage
 - **commit**: adiciona os arquivos para o repositório local
 - **push**: sobe os arquivos para o repositório remoto
+
+--**git**
